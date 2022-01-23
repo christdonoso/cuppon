@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    border: 0px;
+    padding: opx;
+    font-family: "Roboto", sans-serif;
+    font-weight: lighter;
+    color: #212529;
+}
+
+h5 {
+    color: #212529;
+}
+
+nav {
+    background-color: #28A745;
+}
+
+i {
+    color: #707070;
+}
+.preciol {
+    display: inline;
+    float: right;
+    margin: 0.5rem;
+    padding-top: 0.2rem ;
+    color: #707070;
+}
+
+.precior {
+    display: inline;
+    color:#28A745;
+    font-size: 1.2rem;
+    float: right;
+    font-weight: bolder;
+    margin:0.5rem;
+}
+
+#form {
+    background-color: #28A745;
+}
